@@ -1,2 +1,4 @@
 # Computer_Architecture
-컴퓨터 아키텍쳐 공부용 레포지토리
+This is Hellow World project for whole computer area.
+
+Assignment 1. Real Hello World
